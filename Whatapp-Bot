@@ -1,1 +1,10 @@
 
+---User sends WhatsApp message
+
+---Webhook receives message
+
+---Prompt is sent to Gemini AI
+
+---AI response is sent back to user via WhatsApp
+
+---Prompt + response are saved to Cassandra
